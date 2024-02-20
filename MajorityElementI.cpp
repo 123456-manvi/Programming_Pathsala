@@ -1,4 +1,7 @@
 // for N/2 element.........
+// use moore voting algo..for iptimal sol..
+// tc ->o(n)
+// sc->o(1)..
 #include<iostream>
 using namespace std;
 class Solution{
